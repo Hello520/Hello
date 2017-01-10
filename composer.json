@@ -1,7 +1,0 @@
-{
-    "name":"hello520/hello",
-    "type": "library",
-    "require": {
-        "monolog/monolog": "1.0.*"
-    }
-}
